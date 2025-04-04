@@ -22,7 +22,7 @@ I'm a mechanical engineer diving deep into **AI and automation**, with a strong 
 
 ## 📚 Learning Path
 
-- ✅ Submitted application for **Stanford Code in Place** (Python TA)
+- ✅ Submitted application for **Stanford Code in Place** (as a Section Leader)
 - 📅 Currently attending **Google x Kaggle 5-Day Gen AI Bootcamp**
 - 🔜 Next: **Kaggle ML course**
 - ⌨️ Daily practice: Python · DSA · IELTS · Typing
